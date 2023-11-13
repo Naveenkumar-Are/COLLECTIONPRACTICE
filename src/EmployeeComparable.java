@@ -19,7 +19,7 @@ public class EmployeeComparable implements Comparable<EmployeeComparable>
     @Override
     public String toString()
     {
-        return "Employee [id=" + id + ", name=" + name + ", age=" + age + "]";
+        return "Employee [id= ." + id + ", name=" + name + ", age=" + age + "]";
     }
 
     public int compareTo(EmployeeComparable ref)

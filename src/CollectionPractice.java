@@ -5,7 +5,7 @@ import java.util.List;
 public class CollectionPractice {
     public static void main(String[] args) {
 
-      List list= new  ArrayList();
+      List list= new  ArrayList( );
       list.add(20);
         list.add(30);
         list.add(240);
